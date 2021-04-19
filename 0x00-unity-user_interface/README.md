@@ -170,19 +170,19 @@ What is the hotkey for switching to the Inspector window?
 Which Transform tool button rotates a GameObject?
 
 ❌  
-<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformA.png" class="responsive" width="100px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformA.png" class="responsive" width="50px"/>
 
 ❌  
-<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformB.png" class="responsive" width="100px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformB.png" class="responsive" width="50px"/>
 
 ✔️  
-<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformC.png" class="responsive" width="100px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformC.png" class="responsive" width="50px"/>
 
 ❌  
-<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformD.png" class="responsive" width="100px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformD.png" class="responsive" width="50px"/>
 
 ❌  
-<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformE.png" class="responsive" width="100px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformE.png" class="responsive" width="50px"/>
 
 ❌  
-<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="100px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="50px"/>
