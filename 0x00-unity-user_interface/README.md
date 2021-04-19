@@ -186,3 +186,122 @@ Which Transform tool button rotates a GameObject?
 
 ❌  
 <img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="50px"/>
+
+**25. Toolbar: Pan**  
+Which Transform tool button pans around the Scene?
+
+✔️  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformA.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformB.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformC.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformD.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformE.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="50px"/>
+
+**26. Toolbar: Transform**  
+Which Transform tool button combines the Move, Rotate, and Scale tools into a single Gizmo?
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformA.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformB.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformC.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformD.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformE.png" class="responsive" width="50px"/>
+
+✔️  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="50px"/>
+  
+**27. Toolbar: Scale**  
+Which Transform tool button scales a GameObject?
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformA.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformB.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformC.png" class="responsive" width="50px"/>
+
+✔️  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformD.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformE.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="50px"/>
+  
+**28. Toolbar: Move**  
+Which Transform tool button moves a GameObject?
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformA.png" class="responsive" width="50px"/>
+
+✔️  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformB.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformC.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformD.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformE.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="50px"/>
+  
+**29. Toolbar: Transform 2D**  
+Which Transform tool button combines the Move, Rotate, and Scale tools into a single Gizmo specifically for 2D layouts?
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformA.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformB.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformC.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformD.png" class="responsive" width="50px"/>
+
+✔️  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformE.png" class="responsive" width="50px"/>
+
+❌  
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x00-unity-user_interface/images/transformF.png" class="responsive" width="50px"/>
+
+**30. Toolbar: View Arrangement**  
+Which Toolbar dropdown controls the arrangement of all Views?
+
+❌ Layers  
+✔️ Layout  
+❌ Account  
+  
+**31. Toolbar: Displayed Objects**  
+Which Toolbar dropdown controls which objects are displayed in the Scene View?
+
+✔️ Layers  
+❌ Layout  
+❌ Account  
