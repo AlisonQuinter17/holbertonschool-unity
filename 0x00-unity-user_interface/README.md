@@ -60,3 +60,65 @@ Which scene is in Perspective mode and which scene is in Isometric mode?
 
 ❌ A = Perspective, B = Isometric  
 ✔️ A = Isometric, B = Perspective  
+
+**8. Scene View: Navigating Within Scenes**  
+Which of the following is not a way of navigating within the Scene view?
+
+❌ Arrow keys  
+❌ Flythrough mode  
+✔️ Pressing the Play button  
+❌ Hand tool  
+  
+**9. Scene View: Hotkey**  
+What is the hotkey to switch to the Scene view?
+
+✔️ CTRL/CMD + 1  
+  
+**10. Scene View: Hotkey - Center**  
+What is the hotkey for centering the view on a GameObject?
+
+✔️ CTRL/CMD+SHIFT+F  
+  
+**11. Game View - Rendered View**  
+Where does the Game view get its rendered view from?
+
+❌ The view from the Scene view  
+❌ The view from the player character  
+✔️ The cameras in the game  
+  
+**12. Game View - Choose Camera**  
+Which Game View toolbar menu lets you choose which camera to view from?
+
+❌ Aspect  
+✔️ Display  
+❌ Camera  
+  
+**13. Game View - Aspect Ratios**  
+Which Game View toolbar menu lets you test how your game looks with different aspect ratios?
+
+❌ Screen  
+❌ Display  
+✔️ Aspect  
+  
+**14. Game View - Zoom**  
+Which of the following is not a method of zooming in and out in the Game view?
+
+❌ Scroll wheel  
+❌ Scale slider  
+✔️ + and -  
+  
+**15. Hierarchy Window: Order**  
+What is the default order of objects listed in the Hierarchy window?
+
+✔️ Order of creation  
+❌ Alphabetical  
+❌ Order of last modified  
+  
+**16. Hierarchy Window: Reorder**  
+
+Which of the following is not a way of reordering objects in the Hierarchy window?
+
+❌Grouping objects as parent / child objects  
+✔️ Modifying their position number property in the Inspector  
+❌ Dragging objects up and and down in the list  
+  
