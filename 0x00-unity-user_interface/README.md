@@ -122,3 +122,46 @@ Which of the following is not a way of reordering objects in the Hierarchy windo
 ✔️ Modifying their position number property in the Inspector  
 ❌ Dragging objects up and and down in the list  
   
+**17. Hierarchy Window: Parenting**  
+What is Parenting in Unity?
+
+❌ Adding a parent template component to an object.  
+❌ Duplicating an object from another and linking them.  
+✔️ Grouping objects where the topmost object is the parent and the objects grouped under it are child objects.  
+  
+**18. Hierarchy Window: Child Objects**  
+How do you create a child object?
+
+❌ Write a script associating an object to its parent object  
+✔️ Drag and drop child object onto parent object  
+❌ Edit the child object's parent property in the Inspector  
+  
+**19. Hierarchy Window: Hotkey**  
+What is the hotkey for switching to the Hierarchy window?
+
+✔️ CTRL/CMD + 4  
+  
+**20. Inspector Window: GameObject Properties**  
+How can you see the properties of a GameObject?
+
+❌ Right-click on the GameObject and choose Properties from the menu.  
+❌ Click on the GameObject’s gizmo.  
+✔️ Select the GameObject in the Hierarchy window or Scene view to view the properties in the Inspector window.  
+  
+**21. Inspector Window: Script Components**  
+If a GameObject has a script component, which part of the script is displayed in the Inspector window?
+
+❌ Method name  
+✔️ Public variables  
+❌ Return value  
+  
+**22. Inspector Window: Multiple Windows**  
+Can you have more than one Inspector window open at once?
+
+✔️ Yes  
+❌ No  
+  
+**23. Inspector Window: Hotkey**  
+What is the hotkey for switching to the Inspector window?
+
+✔️ CTRL/CMD + 3  
