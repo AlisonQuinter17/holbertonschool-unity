@@ -135,3 +135,5 @@ Create a new instance of Ball named Textured Ball and add a texture to it. Your 
 [textures.com](https://www.textures.com/library "textures.com")  
 [texturex.com](https://www.texturex.com/ "texturex.com")  
 [Unity Asset Store](https://assetstore.unity.com/?orderBy=1 "Unity Asset Store")  
+
+> ***By Carrie Ybay, Software Engineer at Holberton School***
