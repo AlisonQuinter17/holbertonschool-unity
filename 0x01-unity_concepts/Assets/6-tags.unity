@@ -211,7 +211,7 @@ PrefabInstance:
     - target: {fileID: 5891408150339431670, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d,
         type: 3}
       propertyPath: m_TagString
-      value: Obstacles
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d, type: 3}
@@ -397,7 +397,7 @@ PrefabInstance:
     - target: {fileID: 5891408150339431670, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d,
         type: 3}
       propertyPath: m_TagString
-      value: Obstacles
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d, type: 3}
@@ -584,7 +584,7 @@ PrefabInstance:
     - target: {fileID: 5891408150339431670, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d,
         type: 3}
       propertyPath: m_TagString
-      value: Obstacles
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d, type: 3}
@@ -761,7 +761,7 @@ PrefabInstance:
     - target: {fileID: 5891408150339431670, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d,
         type: 3}
       propertyPath: m_TagString
-      value: Obstacles
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d, type: 3}
@@ -830,7 +830,7 @@ PrefabInstance:
     - target: {fileID: 5891408150339431668, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
-      value: 0
+      value: 
       objectReference: {fileID: 2100000, guid: feaa7e694643ea343b7d25e87327a6c3, type: 2}
     - target: {fileID: 5891408150339431670, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d,
         type: 3}
@@ -840,7 +840,7 @@ PrefabInstance:
     - target: {fileID: 5891408150339431670, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d,
         type: 3}
       propertyPath: m_TagString
-      value: Obstacles
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e8d48b995dcbdb40ae1651ec9cb0e3d, type: 3}
