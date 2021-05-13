@@ -1,2 +1,2 @@
-# 0x03-unity-ui
-Maze Unity project  UI 🕹
+# 0x04. Unity - Publishing
+Maze Unity project Publishing 🕹
