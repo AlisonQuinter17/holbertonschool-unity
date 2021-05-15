@@ -14,10 +14,9 @@ public class PlayerController : MonoBehaviour
     public Text winLoseText;
     public Image winLoseBG;
 
-
     // Fixed Update is called once per frame
     public void FixedUpdate()
-    {
+    {        
         if (Input.GetKey(KeyCode.W))
         {
             rb.AddForce(0, 0, speed * Time.deltaTime);
