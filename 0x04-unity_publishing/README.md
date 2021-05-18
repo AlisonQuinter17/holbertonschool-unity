@@ -41,6 +41,11 @@ Which of the following is something to consider when developing for cross-platfo
 ✔️ CPU performance  
 ❌ Method names  
 
+## View
+<div align="center">
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x04-unity_publishing/gif/android.gif" class="responsive" width="200px"/>
+</div>
+
 ## Buildings
 - Windows  
 https://drive.google.com/file/d/1gqbj8ct88xc7VkRL87Bnm9WwouGQVFw-/view?usp=sharing  
