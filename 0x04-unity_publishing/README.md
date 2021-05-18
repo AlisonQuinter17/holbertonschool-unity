@@ -43,7 +43,7 @@ Which of the following is something to consider when developing for cross-platfo
 
 ## View
 <div align="center">
-<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x04-unity_publishing/gif/android.gif" class="responsive" width="200px"/>
+<img src="https://github.com/AlisonQuinter17/holbertonschool-unity/blob/main/0x04-unity_publishing/gif/android.gif" class="responsive" width="900px"/>
 </div>
 
 ## Buildings
