@@ -16,19 +16,19 @@ Does the order of scenes in the Build Settings window matter?
 **Question #2**  
 What tag prevents a GameObject from being included in a published build?
 
-✔️ EditorOnly  
-❌ DoNotBuild  
-❌ BuildOnly  
+✔️ `EditorOnly`  
+❌ `DoNotBuild`  
+❌ `BuildOnly`  
 
 **Question #3**  
-What does Player Settings refer to in a build process?
+What does `Player Settings` refer to in a build process?
 
-❌ The controller of the Player object  
+❌ The controller of the `Player` object  
 ✔️ A set of options for the final build  
 ❌ The user’s choices in the game options  
 
 **Question #4**  
-What causes tearing?
+What causes `tearing`?
 
 ❌ Low resolution settings  
 ✔️ When Unity updates a frame while the display is still rendering the last frame  
