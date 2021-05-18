@@ -40,3 +40,17 @@ Which of the following is something to consider when developing for cross-platfo
 ✔️ Input methods  
 ✔️ CPU performance  
 ❌ Method names  
+
+## Buildings
+- Windows  
+https://drive.google.com/file/d/1gqbj8ct88xc7VkRL87Bnm9WwouGQVFw-/view?usp=sharing  
+
+- Linux  
+https://drive.google.com/file/d/1t2zf4DvBlQrmh4jmJG5LqXSmAfsOfjA6/view?usp=sharing
+
+- Mac  
+https://drive.google.com/file/d/1xMtUEDTz2d5B85fXukreqUZ6TDBzqQMU/view?usp=sharing
+
+- Android  
+https://drive.google.com/file/d/13YY-I-qEwvTS-brV5wn_OIlj1Fk0Eg31/view?usp=sharing
+
