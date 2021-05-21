@@ -7,7 +7,7 @@ What does `standalone` mean?
 ❌ Builds for mobile devices  
 ✔️ Builds for Windows, Mac, and Linux  
 
-**Question #1**
+**Question #1**  
 Does the order of scenes in the Build Settings window matter?
 
 ✔️ Yes  
