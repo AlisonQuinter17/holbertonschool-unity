@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
         player = GetComponent<CharacterController>();
         falling = GetComponent<Transform>();
     }
+    
     private void Update()
     {
         float x_direction = Input.GetAxis("Horizontal");
