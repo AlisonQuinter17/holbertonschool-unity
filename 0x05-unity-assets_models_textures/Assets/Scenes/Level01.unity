@@ -479,8 +479,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 3373963228428868641}
   offset: {x: 0, y: 1, z: -5.5}
-  vertical_speed: 2
-  horizontal_speed: 2
+  directions_speed: 1
 --- !u!1001 &348293729
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1278,17 +1277,17 @@ PrefabInstance:
     - target: {fileID: 4649026693925430598, guid: 1ccb05a265cc78345a529950de51c7fa,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -23.951134
+      value: -18.69
       objectReference: {fileID: 0}
     - target: {fileID: 4649026693925430598, guid: 1ccb05a265cc78345a529950de51c7fa,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.88999987
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 4649026693925430598, guid: 1ccb05a265cc78345a529950de51c7fa,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 14.843315
+      value: 11.9
       objectReference: {fileID: 0}
     - target: {fileID: 4649026693925430598, guid: 1ccb05a265cc78345a529950de51c7fa,
         type: 3}

@@ -7,7 +7,7 @@ public class CameraController : MonoBehaviour
     public float directions_speed = 1.0f;
     private float yaw = 0.0f;
     private float pitch = 0.0f;
-    
+
     void Update()
     {
         yaw += directions_speed * Input.GetAxis("Mouse X");

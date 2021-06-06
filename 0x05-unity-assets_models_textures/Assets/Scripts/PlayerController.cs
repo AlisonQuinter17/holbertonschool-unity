@@ -3,12 +3,13 @@
 public class PlayerController : MonoBehaviour
 {
     public CharacterController player;
+    private Transform falling;
     private Vector3 moveDirection;
     public float speed = .1f;
     public float jump_force = 6.0f;
     public float gravity = 6.0f;
 
-    private void start()
+    void start()
     {
         player = GetComponent<CharacterController>();
     }
@@ -34,5 +35,8 @@ public class PlayerController : MonoBehaviour
         }
         moveDirection.y -= (gravity * Time.deltaTime);
         player.Move(moveDirection * Time.deltaTime);
+
+        if (falling.position.y < -25f)
+            falling.position = new Vector3(0, 15, 0);
     }
 }
