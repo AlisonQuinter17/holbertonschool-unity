@@ -478,7 +478,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 3373963228428868641}
-  offset: {x: 0, y: 1, z: -5.5}
+  offset: {x: 0, y: 1, z: -6}
   directions_speed: 1
 --- !u!1001 &348293729
 PrefabInstance:
@@ -3104,10 +3104,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b13152b064e98234ba8142b3f3b719d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 3373963228428868637}
   speed: 10
-  jump_force: 7
   gravity: 15
+  player: {fileID: 3373963228428868637}
 --- !u!143 &3373963228428868637
 CharacterController:
   m_ObjectHideFlags: 0
