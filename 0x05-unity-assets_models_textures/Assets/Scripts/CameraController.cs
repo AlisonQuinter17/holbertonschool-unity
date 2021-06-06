@@ -4,16 +4,14 @@ public class CameraController : MonoBehaviour
 {
     public Transform target;
     public Vector3 offset;
-    public float vertical_speed = 1.0f;
-    public float horizontal_speed = 1.0f;
+    public float directions_speed = 1.0f;
     private float yaw = 0.0f;
     private float pitch = 0.0f;
     
-
     void Update()
     {
-        yaw += horizontal_speed * Input.GetAxis("Mouse X");
-        pitch += vertical_speed * Input.GetAxis("Mouse Y");
+        yaw += directions_speed * Input.GetAxis("Mouse X");
+        pitch += directions_speed * Input.GetAxis("Mouse Y");
 
         // Rotate the camera on their own by moving the mouse.
         transform.eulerAngles = new Vector3(pitch, yaw, 0.0f);
