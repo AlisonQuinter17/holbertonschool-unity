@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
     private Transform falling;
     public CharacterController player;
     public float speed = .1f;
-    private float jump_force = 6.0f;
+    private float jump_force = 8.0f;
     public float gravity = 6.0f;
     
 
