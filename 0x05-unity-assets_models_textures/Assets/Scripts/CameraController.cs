@@ -2,21 +2,22 @@
 
 public class CameraController : MonoBehaviour
 {
-    public Transform target;
-    public Vector3 offset;
-    public float directions_speed = 1.0f;
-    private float yaw = 0.0f;
-    private float pitch = 0.0f;
+    private Transform t;
+    private Vector3 offset;
+
+    public GameObject player;
+    public float turnSpeed = 5.0f;
+
+    void Start()
+    {
+        t = GetComponent<Transform>();
+        offset = t.position - player.transform.position;
+    }
 
     void Update()
     {
-        yaw += directions_speed * Input.GetAxis("Mouse X");
-        pitch += directions_speed * Input.GetAxis("Mouse Y");
-
-        // Rotate the camera on their own by moving the mouse.
-        transform.eulerAngles = new Vector3(pitch, yaw, 0.0f);
-        
-        // The camera to follow the player.
-        transform.position = target.position + offset;
+        offset = Quaternion.AngleAxis(Input.GetAxis("Mouse X") * turnSpeed, Vector3.up) * Quaternion.AngleAxis(Input.GetAxis("Mouse Y") * turnSpeed, Vector3.left) * offset;
+        t.position = player.transform.position + offset;
+        transform.LookAt(player.transform.position);
     }
 }
